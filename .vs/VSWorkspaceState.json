@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\views"
   ],
-  "SelectedNode": "\\C:\\Users\\909221\\source\\repos_github\\FreeCodeCamp\\Boilerplate-npm",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
