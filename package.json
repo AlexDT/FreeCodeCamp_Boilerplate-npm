@@ -1,7 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Alex Dias Teixeira",
-	"Description": "This is a description that explains the purpose of this project.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
